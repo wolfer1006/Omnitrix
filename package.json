@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "6ceb1d25-8b54-4e96-aa39-4fd11e0cb65b",
+    "appType": "app",
+    "appDisplayName": "Omnitrix",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#4caf50",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Omnitrix"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

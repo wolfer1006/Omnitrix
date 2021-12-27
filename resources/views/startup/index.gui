@@ -1,0 +1,4 @@
+<svg id="view-select" class="background">
+  <image id="btnStart" href="Omnitrix_Startup_Scaled.png" />
+  <text id="myLabel" />
+</svg>

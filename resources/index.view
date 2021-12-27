@@ -1,0 +1,5 @@
+<svg class="background">
+  <image id="btnStart" href="Omnitrix_Startup_Scaled_3.png" pointer-events="visible"/>
+  <text id="myLabel" />
+</svg>
+
